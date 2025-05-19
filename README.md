@@ -1,16 +1,20 @@
-# trackify
+Smart Study Planner – Android App
+An offline intelligent study planner app designed to boost your productivity with Pomodoro technique, voice input, and personalized study stats.
 
-A new Flutter project.
+Features
+📅 Task Management: Create, edit, and filter your study tasks easily.
 
-## Getting Started
+⏳ Pomodoro Timer: Built-in Pomodoro technique timer to optimize study sessions.
 
-This project is a starting point for a Flutter application.
+🎤 Voice Input: Add tasks quickly using voice commands.
 
-A few resources to get you started if this is your first Flutter project:
+📊 Study Stats: Track your study habits with detailed statistics.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+💾 Offline & Local Storage: All data is stored locally using SQLite — no internet required!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tech Stack
+Frontend: Flutter
+
+Backend: Flask
+
+Database: SQLite
